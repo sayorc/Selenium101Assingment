@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-10T10:49:50 IST" name="Default suite" finished-at="2024-05-10T10:51:14 IST" duration-ms="83169">
+    <groups>
+    </groups>
+    <test started-at="2024-05-10T10:49:50 IST" name="Default test" finished-at="2024-05-10T10:51:14 IST" duration-ms="83169">
+      <class name="LamdaTestAssignment">
+        <test-method is-config="true" signature="getURL()[pri:0, instance:LamdaTestAssignment@1e6a3214]" started-at="2024-05-10T10:49:50 IST" name="getURL" finished-at="2024-05-10T10:49:58 IST" duration-ms="7932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="senario1()[pri:0, instance:LamdaTestAssignment@1e6a3214]" started-at="2024-05-10T10:49:58 IST" name="senario1" finished-at="2024-05-10T10:50:05 IST" duration-ms="6521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario1 -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:LamdaTestAssignment@1e6a3214]" started-at="2024-05-10T10:50:05 IST" name="getURL" finished-at="2024-05-10T10:50:17 IST" duration-ms="12423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="senario2()[pri:0, instance:LamdaTestAssignment@1e6a3214]" started-at="2024-05-10T10:50:17 IST" name="senario2" finished-at="2024-05-10T10:50:53 IST" duration-ms="35987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario2 -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:LamdaTestAssignment@1e6a3214]" started-at="2024-05-10T10:50:53 IST" name="getURL" finished-at="2024-05-10T10:51:00 IST" duration-ms="6440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="senario3()[pri:0, instance:LamdaTestAssignment@1e6a3214]" started-at="2024-05-10T10:51:00 IST" name="senario3" finished-at="2024-05-10T10:51:14 IST" duration-ms="13832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- senario3 -->
+      </class> <!-- LamdaTestAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
